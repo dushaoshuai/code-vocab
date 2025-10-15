@@ -1,6 +1,9 @@
 # Code Vocabulary for Developers
 
-CodeVocab is a collection of **real-world English example sentences** commonly found in **developer documentation, comments, and specifications**. It helps programmers, technical writers, and language learners improve their **technical English comprehension and expression**.
+一个个人学习资源，收集自真实开发场景的英语例句（包括文档、注释和技术规范），用于提升技术英语的理解与写作能力。
+
+A personal learning resource of English example sentences collected from real-world developer contexts — documentation, comments, and specifications — curated to improve technical English comprehension and writing skills.
+
 
 ## Vocabulary
 
