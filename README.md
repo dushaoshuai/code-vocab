@@ -63,7 +63,10 @@ A personal learning resource of English example sentences collected from real-wo
 
 <summary>shelve</summary>
 
-* 
+* vt. 搁置（计划）
+* vt. 把...放在架子上
+* vi. （陆地）倾斜
+
 </details>
 
 ## License
