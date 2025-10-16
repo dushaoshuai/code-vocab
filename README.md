@@ -69,6 +69,16 @@ A personal learning resource of English example sentences collected from real-wo
 
 </details>
 
+<details>
+
+<summary>tele-</summary>
+
+* comb. "远距离"
+  * [Telepresence](https://telepresence.io/) 远程呈现
+  * [Telemetry](https://opentelemetry.io/) 遥感勘测；远距离测量术
+
+</details>
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) — see the [LICENSE](https://github.com/dushaoshuai/code-vocab/blob/main/LICENSE) file for details.
