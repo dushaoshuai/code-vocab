@@ -49,6 +49,23 @@ A personal learning resource of English example sentences collected from real-wo
 
 </details>
 
+<details>
+
+<summary>replica</summary>
+
+* n. 复制品，仿制品
+  * [On the source and each **replica**, you must set the server_id system variable to establish a unique replication ID in the range from 1 to 2<sup>32</sup> − 1.](https://dev.mysql.com/doc/refman/8.0/en/replication-options-replica.html#:~:text=On%20the%20source%20and%20each%20replica%2C%20you%20must%20set%20the%20server_id%20system%20variable%20to%20establish%20a%20unique%20replication%20ID%20in%20the%20range%20from%201%20to%20232%20%E2%88%92%201.)
+    * 在主服务器与每个**副本**上，都必须设置 server_id 系统变量，以建立一个在 1 到 2³² − 1 范围内唯一的复制 ID。
+
+</details>
+
+<details>
+
+<summary>shelve</summary>
+
+* 
+</details>
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) — see the [LICENSE](https://github.com/dushaoshuai/code-vocab/blob/main/LICENSE) file for details.
