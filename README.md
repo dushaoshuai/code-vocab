@@ -7,6 +7,11 @@ A personal learning resource of English example sentences collected from real-wo
 
 ## Vocabulary
 
+<details><summary>autonomously</summary>
+
+* adv. 自治的，独立自主地
+</details>
+
 <details>
 
 <summary>corporate</summary>
