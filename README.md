@@ -12,6 +12,13 @@ A personal learning resource of English example sentences collected from real-wo
 * adv. 自治的，独立自主地
 </details>
 
+<details><summary>auxiliary</summary>
+
+* adj. 辅助的
+  * You can also have sidecar containers that provide auxiliary services to the main application Pod (for example: a service mesh). | [查看原文](https://kubernetes.io/docs/concepts/workloads/pods/#:~:text=containers%20that%20provide-,auxiliary,-services%20to%20the) | 你也可以使用边车容器，边车容器为主应用 Pod 提供辅助服务（比如: service mesh）。
+* adj. 备用的
+</details>
+
 <details>
 
 <summary>corporate</summary>
