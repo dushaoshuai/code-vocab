@@ -9,6 +9,17 @@ A personal learning resource of English example sentences collected from real-wo
 
 <details>
 
+<summary>corporate</summary>
+
+* adj. 公司的
+  * [Kubernetes pods installed on linux server can’t access any API’s or ips from local **corporate** network but can communicate with each other and internet.](https://discuss.kubernetes.io/t/kubernetes-pods-installed-on-linux-server-cant-access-any-apis-or-ips-from-local-corporate-network-but-can-communicate-with-each-other-and-internet/30226/1)
+    * 运行在 Linux 服务器上的 k8s pods，无法访问本地**公司**网络的任何 API 或 IP，但可以互相通信并访问互联网。
+* adj. 全体的，团体的
+
+</details>
+
+<details>
+
 <summary>portal</summary>
 
 * n. 门户网站
