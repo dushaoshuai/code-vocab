@@ -32,6 +32,14 @@ A personal learning resource of English example sentences collected from real-wo
 
 </details>
 
+<details><summary>override</summary>
+
+* vt.（以权利）否决，推翻
+* vt. 凌驾
+* vt. 覆盖
+  * The kubelet is the primary "node agent" that runs on each node. It can register the node with the apiserver using one of: the hostname; a flag to override the hostname; or specific logic for a cloud provider. | [查看原文](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis:~:text=Synopsis-,The,-kubelet%20is%20the) | kubelet 是主要的“节点代理”，运行在每个节点上。它可以使用以下之一向 apiserver 注册节点：主机名；一个覆盖主机名的 flag；或者云服务提供商的特定逻辑。
+</details>
+
 <details>
 
 <summary>pea</summary>
@@ -58,6 +66,14 @@ A personal learning resource of English example sentences collected from real-wo
 * n. 出入口
 * n. 正门
 
+</details>
+
+<details><summary>primary</summary>
+
+* adj. 首要的
+  * The kubelet is the **primary** "node agent" that runs on each node. | [查看原文](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis:~:text=The%20kubelet%20is%20the%20primary%20%22node%20agent%22%20that%20runs%20on%20each%20node.) | kubelet 是**主要的**“节点代理”，运行在每个节点上。
+* adj. 最早的
+* adj. 小学的
 </details>
 
 <details>
@@ -93,6 +109,12 @@ A personal learning resource of English example sentences collected from real-wo
 * vt. 推卸（责任）
 * n. 改变，转变
 
+</details>
+
+<details><summary>synopsis</summary>
+
+* n.（书、电影等）提要，梗概
+  * [Synopsis](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis)
 </details>
 
 <details>
