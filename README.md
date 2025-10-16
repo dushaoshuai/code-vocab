@@ -20,6 +20,15 @@ A personal learning resource of English example sentences collected from real-wo
 
 <details>
 
+<summary>generic</summary>
+
+* adj. 一般的，通用的
+* adj. 无商标的
+
+</details>
+
+<details>
+
 <summary>portal</summary>
 
 * n. 门户网站
