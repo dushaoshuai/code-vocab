@@ -29,6 +29,16 @@ A personal learning resource of English example sentences collected from real-wo
 
 <details>
 
+<summary>pea</summary>
+
+* n. 豌豆
+  * [A Pod (as in a pod of whales or **pea** pod) is a group of one or more containers.](https://kubernetes.io/docs/concepts/workloads/pods/#:~:text=as%20in%20a%20pod%20of%20whales%20or%20pea%20pod)
+    * 一个 Pod（就像鲸群或者豌豆荚）是一组容器。
+
+</details>
+
+<details>
+
 <summary>portal</summary>
 
 * n. 门户网站
