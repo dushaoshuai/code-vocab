@@ -71,6 +71,23 @@ A personal learning resource of English example sentences collected from real-wo
 
 <details>
 
+<summary>shift</summary>
+
+* vi. vt. 转移，挪动
+  * [**Shift** Testing Left](https://telepresence.io/#:~:text=see%20results%20immediately.-,Shift%20Testing%20Left,-You%20want%20to)
+    * 把测试提前到开发早期进行，让问题更早被发现、更便宜地解决。
+  * [**Shift** the positional parameters to the left by n: the positional parameters from `n+1` … `$#` are renamed to `$1` … `$#-n`.](https://www.gnu.org/software/bash/manual/bash.html#:~:text=Shift%20the%20positional%20parameters%20to%20the%20left%20by%20n%3A%20the%20positional%20parameters%20from%20n%2B1%20%E2%80%A6%20%24%23%20are%20renamed%20to%20%241%20%E2%80%A6%20%24%23%2Dn.)
+    * 把位置参数向左移动 n 个位置：从 `n+1` 到 `$#` 的位置参数被重命名为 `$1` 到 `$#-n`.
+* vi. vt. 换（挡）
+* vi. （情况等）改变
+* vt. 改变观点（态度等）
+* vt. 推卸（责任）
+* n. 改变，转变
+
+</details>
+
+<details>
+
 <summary>tele-</summary>
 
 * comb. "远距离"
