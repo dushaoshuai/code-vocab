@@ -75,9 +75,19 @@
 <details><summary>primary</summary>
 
 * adj. 首要的
-  * The kubelet is the **primary** "node agent" that runs on each node. | [查看原文](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis:~:text=The%20kubelet%20is%20the%20primary%20%22node%20agent%22%20that%20runs%20on%20each%20node.) | kubelet 是**主要的**“节点代理”，运行在每个节点上。
+  * The kubelet is the **primary** "node agent" that runs on each node. | [查看原文](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis:~:text=The%20kubelet%20is%20the%20primary%20%22node%20agent%22%20that%20runs%20on%20each%20node.) | kubelet 是**首要的**“节点代理”，运行在每个节点上。
 * adj. 最早的
 * adj. 小学的
+</details>
+
+<details><summary>prime</summary>
+
+* adj. 首要的
+  * CI/CD servers are **prime** targets for attacks, giving hackers access to source code and sensitive data. | [查看原文](https://www.jetbrains.com/lp/teamcity-cicd-security-whitepaper/#:~:text=CI/CD%20servers%20are%20prime%20targets%20for%20attacks%2C%20giving%20hackers%20access%20to%20source%20code%20and%20sensitive%20data.) | CI/CD服务器是攻击的**首要**目标，使黑客能够访问源代码和敏感数据。
+* adj. 最好的
+* adj. 典型的
+* n. 盛年，鼎盛时期
+* vt. 准备；事先指点
 </details>
 
 <details>
