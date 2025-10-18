@@ -44,9 +44,14 @@
   * The kubelet is the primary "node agent" that runs on each node. It can register the node with the apiserver using one of: the hostname; a flag to override the hostname; or specific logic for a cloud provider. | [查看原文](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/#synopsis:~:text=Synopsis-,The,-kubelet%20is%20the) | kubelet 是主要的“节点代理”，运行在每个节点上。它可以使用以下之一向 apiserver 注册节点：主机名；一个覆盖主机名的 flag；或者云服务提供商的特定逻辑。
 </details>
 
-<details>
+<details><summary>overuse</summary>
 
-<summary>pea</summary>
+* n. 使用过度，滥用
+  * Overuse of `//go:linkname` to reach into Go standard library internals (especially runtime internals) means that when we do change the standard library internals in ways that should not matter, we can end up breaking packages that are depended on by a large swath of the Go ecosystem. | [查看原文](https://github.com/golang/go/issues/67401#:~:text=Contributor-,Overuse,-of%20//go%3Alinkname) | 过度使用 `//go:linkname` 访问 Go 标准库的内部（尤其是 runtime 的内部），意味着当我们以本不该影响外部的方式修改标准库内部时，可能会导致依赖这些包的 Go 生态系统中大量软件发生破坏。
+* vt. 使用国服，滥用
+</details>
+
+<details><summary>pea</summary>
 
 * n. 豌豆
   * [A Pod (as in a pod of whales or **pea** pod) is a group of one or more containers.](https://kubernetes.io/docs/concepts/workloads/pods/#:~:text=as%20in%20a%20pod%20of%20whales%20or%20pea%20pod)
