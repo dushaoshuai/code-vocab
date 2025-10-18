@@ -27,6 +27,14 @@
 
 </details>
 
+<details><summary>delicate</summary>
+
+* adj. 微妙的；易受损的；精美的
+  * Delicate dance: the semaphore implementation calls acquireSudog, acquireSudog calls new(sudog), new calls malloc, malloc can call the garbage collector, and the garbage collector calls the semaphore implementation in stopTheWorld. Break the cycle by doing acquirem/releasem around new(sudog). The acquirem/releasem increments m.locks during new(sudog), which keeps the garbage collector from being invoked. | [查看原文](https://github.com/golang/go/blob/a5f55a441ef497d8e2a12610f4ec2bd32fdc04b2/src/runtime/proc.go#L491) | 精妙的配合：信号量的实现会调用 acquireSudog，acquireSudog 会调用 new(sudog)，new 会调用 malloc，malloc 可能会调用垃圾回收器，而垃圾回收器在 stopTheWorld 中又会调用信号量的实现。通过在 new(sudog) 周围执行 acquirem/releasem 来打破这个循环。acquirem/releasem 会在执行 new(sudog) 期间增加 m.locks，这样可以防止垃圾回收器被调用。
+* adj.（仪器等）精密的
+* adj. (人)柔弱的
+</details>
+
 <details>
 
 <summary>generic</summary>
