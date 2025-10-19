@@ -24,11 +24,13 @@
 * adv. 在下面，往下
 </details>
 
-<details><summary>broadly</summary></details>
+<details><summary>broadly</summary>
 
 * adv. 大体上，整体上
   * Broadly, a version string might look like v2 or v2beta1. ｜ [查看原文](https://v1-32.docs.kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definition-versioning/#:~:text=Broadly%2C%20a%20version%20string%20might%20look%20like%20v2%20or%20v2beta1.) ｜ 大体上，一个版本字符串可能看起来像 v2 或者 v2beta1 这样。
 * adv. 咧嘴（笑）地
+</details>
+
 <details>
 
 <summary>corporate</summary>
