@@ -16,6 +16,14 @@
 * adj. 备用的
 </details>
 
+<details><summary>beneath</summary>
+
+* prep. 在...之下
+    * If the ConfigMap exists, but the referenced key is non-existent, the path will be absent beneath the mount point. | [查看原文](https://v1-32.docs.kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/#:~:text=If%20the%20ConfigMap%20exists%2C%20but%20the%20referenced%20key%20is%20non%2Dexistent%2C%20the%20path%20will%20be%20absent%20beneath%20the%20mount%20point.) | 如果 ConfigMap 存在，但引用的 key 不存在，那么在挂载点下对应的路径将不会出现。
+* prep. 配不上某人
+* adv. 在下面，往下
+</details>
+
 <details>
 
 <summary>corporate</summary>
