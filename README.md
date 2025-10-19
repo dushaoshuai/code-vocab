@@ -100,6 +100,16 @@
 
 </details>
 
+<details><summary>pod</summary>
+
+* n. 豆荚
+  * A Pod (as in a pod of whales or pea **pod**) is a group of one or more containers. | [查看原文](https://kubernetes.io/docs/concepts/workloads/pods/#:~:text=as%20in%20a%20pod%20of%20whales%20or%20pea%20pod) | 一个 Pod（就像鲸群或者豌**豆荚**）是一组容器。
+* n. 飞机吊舱
+* n. 分离舱
+* n. 一群
+  * A Pod (as in a **pod** of whales or pea pod) is a group of one or more containers. | [查看原文](https://kubernetes.io/docs/concepts/workloads/pods/#:~:text=as%20in%20a%20pod%20of%20whales%20or%20pea%20pod) | 一个 Pod（就像鲸**群**或者豌豆荚）是一组容器。
+</details>
+
 <details><summary>primary</summary>
 
 * adj. 首要的
