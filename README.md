@@ -125,7 +125,9 @@
 * adj. 最好的
 * adj. 典型的
 * n. 盛年，鼎盛时期
-* vt. 准备；事先指点
+* vt. 准备
+  * Priming the Cache. | [查看原文](https://support.ptc.com/help/windchillrvs/r13.0.0.0/en/index.html#page/IntegrityHelp/serv_proxy_FSA_priming_proxy.mif-3.html) | “Priming the cache”（预热缓存 / 预先填充缓存）指的是在系统正式运行前，主动将常用或关键的数据加载到缓存中，以避免用户首次访问时触发缓存未命中（cache miss）而导致的性能下降。
+* vt. 事先指点
 </details>
 
 <details><summary>progress</summary>
