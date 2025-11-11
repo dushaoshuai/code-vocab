@@ -50,6 +50,13 @@
 * adj. (人)柔弱的
 </details>
 
+<details><summary>deprecate</summary>
+
+* vt. 强烈反对，强烈批评
+  * The Go module `github.com/docker/docker` is deprecated in favor of `github.com/moby/moby/client` and `github.com/moby/moby/api`. | [查看原文](https://github.com/moby/moby/releases/tag/docker-v29.0.0#:~:text=is%20deprecated%20in%20favor%20of) | Go 模块 github.com/docker/docker 已被弃用，推荐使用 github.com/moby/moby/client 和 github.com/moby/moby/api 来代替。
+
+</details>
+
 <details>
 
 <summary>generic</summary>
