@@ -4,7 +4,7 @@
 
 ## Vocabulary
 
-<details><summary>autonomously</summary>
+<details xmlns="http://www.w3.org/1999/html"><summary>autonomously</summary>
 
 * adv. 自治的，独立自主地
 </details>
@@ -128,9 +128,15 @@
 * vt. 准备；事先指点
 </details>
 
-<details>
+<details><summary>progress</summary>
 
-<summary>replica</summary>
+* n. 进步，进展；前进
+  * Go 1.26 is not yet released. These are **work-in-progress** release notes. Go 1.26 is expected to be released in February 2026. | [查看原文](https://tip.golang.org/doc/go1.26#introduction) | Go 1.26 还没有发布，目前的文档是开发中的版本说明。Go 1.26 预计会在 2026 年 2 月发布。
+* vi. 取得进步；前进；（时间）流逝
+
+</details>
+
+<details><summary>replica</summary>
 
 * n. 复制品，仿制品
   * [On the source and each **replica**, you must set the server_id system variable to establish a unique replication ID in the range from 1 to 2<sup>32</sup> − 1.](https://dev.mysql.com/doc/refman/8.0/en/replication-options-replica.html#:~:text=On%20the%20source%20and%20each%20replica%2C%20you%20must%20set%20the%20server_id%20system%20variable%20to%20establish%20a%20unique%20replication%20ID%20in%20the%20range%20from%201%20to%20232%20%E2%88%92%201.)
