@@ -137,6 +137,18 @@
 * vt. 事先指点
 </details>
 
+<details><summary>prior</summary>
+
+* adj. 先前的；优先的；在...前面的
+* n. 犯罪前科
+</details>
+
+<details><summary>prior to sth</summary>
+
+* usage. 在...之前，先于
+  * Prior to inserting the row, a type of gap lock called an insert intention gap lock is set. | [查看原文](https://dev.mysql.com/doc/refman/8.0/en/innodb-locks-set.html#:~:text=the%20inserted%20row.-,Prior%20to,-inserting%20the%20row) | 在插入这一行之前，InnoDB 会先设置一种称为插入意向间隙锁的间隙锁。
+</details>
+
 <details><summary>progress</summary>
 
 * n. 进步，进展；前进
