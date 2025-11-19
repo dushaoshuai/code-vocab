@@ -95,6 +95,12 @@
 
 </details>
 
+<details><summary>permanent</summary>
+
+* adj. 永久的，永恒的
+  * 308 Permanent Redirect | [查看原文](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/308) | HTTP 308 永久重定向
+</details>
+
 <details><summary>personalize</summary>
 
 * vt. 为个人定制
