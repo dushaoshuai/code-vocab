@@ -4,7 +4,7 @@
 
 ## Vocabulary
 
-<details xmlns="http://www.w3.org/1999/html"><summary>autonomously</summary>
+<details><summary>autonomously</summary>
 
 * adv. 自治的，独立自主地
 </details>
@@ -55,6 +55,12 @@
 * vt. 强烈反对，强烈批评
   * The Go module `github.com/docker/docker` is deprecated in favor of `github.com/moby/moby/client` and `github.com/moby/moby/api`. | [查看原文](https://github.com/moby/moby/releases/tag/docker-v29.0.0#:~:text=is%20deprecated%20in%20favor%20of) | Go 模块 github.com/docker/docker 已被弃用，推荐使用 github.com/moby/moby/client 和 github.com/moby/moby/api 来代替。
 
+</details>
+
+<details><summary>durable</summary>
+
+* adj. 耐用的，持久的
+  * PersistentVolumeClaims are a way for users to "claim" **durable** storage (such as an iSCSI volume) without knowing the details of the particular cloud environment. | [查看原文](https://kubernetes.io/docs/concepts/storage/volumes/#:~:text=PersistentVolumeClaims%20are%20a%20way) | PersistentVolumeClaims（PVC）让用户能够申请**持久**存储（比如 iSCSI 卷），而不需要了解特定云环境的细节。
 </details>
 
 <details>
