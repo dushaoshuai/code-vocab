@@ -101,6 +101,13 @@
   * **Personalization**. To tailor the content and information that we may send or display to you on our Sites and in our Services, to offer location customization and **personalized** help and instructions and to otherwise **personalize** your experiences. | [查看原文](https://www.linuxfoundation.org/legal/privacy-policy#:~:text=our%20legal%20rights.-,Personalization,-.%20To%20tailor%20the) | 个性化。（我们收集个人信息的目的之一），是定制我们可能在网站和服务中向您发送或展示的内容和信息，是为了提供基于位置的定制服务以及个性化的帮助和指导，从而使您的使用体验更加个性化。
 </details>
 
+<details><summary>persistent</summary>
+
+* adj. 执着的，契而不舍的
+* adj. 持续的
+  * Persistent Volumes | [查看原文](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) | 持久卷
+</details>
+
 <details>
 
 <summary>portal</summary>
